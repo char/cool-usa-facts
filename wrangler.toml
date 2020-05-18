@@ -1,0 +1,6 @@
+name = "usa"
+type = "webpack"
+account_id = "2be83bc6a45e48ff3033809435184c66"
+workers_dev = true
+route = ""
+zone_id = ""
